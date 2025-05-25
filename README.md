@@ -54,10 +54,7 @@
 </picture>
 
 
-
 ###
-
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TharinduThilakshana0thildezo/TharinduThilakshana0thildezo/output/pacman-contribution-graph-dark.svg">
