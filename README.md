@@ -38,7 +38,7 @@
 # ![CodingComputerCodingGIF](https://github.com/user-attachments/assets/d7b0b8dd-6573-426c-b154-dee6486bff6c)
 
   ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Tharindu Thilakshana De Zoysa) 
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ Tharindu Thilakshana De Zoysa) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
