@@ -46,15 +46,11 @@
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-  
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TharinduThilakshana0thildezo/TharinduThilakshana0thildezo/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TharinduThilakshana0thildezo/TharinduThilakshana0thildezo/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/TharinduThilakshana0thildezo/TharinduThilakshana0thildezo/output/github-snake.svg" />
 </picture>
-
-
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TharinduThilakshana0thildezo/TharinduThilakshana0thildezo/output/pacman-contribution-graph-dark.svg">
@@ -63,15 +59,6 @@
 </picture>
 
 
-
-
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/TharinduThilakshana0thildezo/count.svg?"  />
 </div>
-
-###
-
-
-
-
