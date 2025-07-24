@@ -44,14 +44,20 @@
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Tharindu-Thilakshana-De-Zoysa) 
 
   
-<!-- 🐍 GitHub Snake Contribution Graph -->
-<img alt="GitHub Snake" src="https://raw.githubusercontent.com/TharinduThilakshana0thildezo/TharinduThilakshana0thildezo/output/github-snake.svg" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TharinduThilakshana0thildezo/TharinduThilakshana0thildezo/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TharinduThilakshana0thildezo/TharinduThilakshana0thildezo/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/TharinduThilakshana0thildezo/TharinduThilakshana0thildezo/output/github-snake.svg" />
+</picture>
 
-<!-- 👾 Pacman Contribution Graph -->
-<img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/TharinduThilakshana0thildezo/TharinduThilakshana0thildezo/output/pacman-contribution-graph.svg" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TharinduThilakshana0thildezo/TharinduThilakshana0thildezo/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TharinduThilakshana0thildezo/TharinduThilakshana0thildezo/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/TharinduThilakshana0thildezo/TharinduThilakshana0thildezo/output/pacman-contribution-graph.svg">
+</picture>
 
-<!-- 👁️‍🗨️ Profile Visitor Counter -->
+
 <div align="center">
-  <img src="https://profile-counter.glitch.me/TharinduThilakshana0thildezo/count.svg" />
+  <img src="https://profile-counter.glitch.me/TharinduThilakshana0thildezo/count.svg?"  />
 </div>
 
